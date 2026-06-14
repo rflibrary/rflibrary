@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on phát triển **RF-LIBRARY-META-OS**, đặc biệt là:
 - 📫 How to reach me thông qua Tab `Discussions` / `Issues` tại Meta Repo, hoặc kết nối qua Cổng thông tin cộng đồng.
 - 😄 Pronouns: It/Its (Hệ điều hành lõi) | We/Us (Cộng đồng tri thức H.E.I).
-- ⚡ Fun fact: Dù sở hữu kiến trúc hạ tầng phần cứng đồ sộ, hệ thống của tôi hoàn toàn không sử dụng pin lưu trữ điện. Thứ duy nhất tôi lưu trữ, khuếch đại và tái tạo mỗi ngày là "8 Lớp Năng Lượng" cốt lõi.
+- ⚡ Fun fact: Dù sở hữu kiến trúc hạ tầng phần cứng đồ sộ, hệ thống của tôi hoàn toàn không sử dụng pin lưu trữ điện. Thứ duy nhất tôi lưu trữ và tái tạo mỗi ngày là "8 Lớp Năng Lượng" cốt lõi.
 
 <!---
 rflibrary/rflibrary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
